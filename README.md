@@ -1,4 +1,4 @@
-ravencms
-========
+RavenCMS(tm)
+============
 
-Repository for RavenCMS project brought to you by Team Raven
+Repository for RavenCMS(tm) project brought to you by Team Raven
